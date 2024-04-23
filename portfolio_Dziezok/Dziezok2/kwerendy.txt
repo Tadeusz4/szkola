@@ -1,0 +1,4 @@
+kw1 - INSERT INTO rezerwacje VALUES ('', '1', '2017-07-04', '4', '111222333');
+kw2 - SELECT nazwa, cena FROM `dania` WHERE typ=2;
+kw3 - SELECT nazwa FROM `dania` WHERE cena<15 and typ=3;
+kw4 - UPDATE pracownicy set stanowisko=4 WHERE stanowisko=3;
